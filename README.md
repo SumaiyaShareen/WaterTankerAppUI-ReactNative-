@@ -1,11 +1,32 @@
-# Sample Snack app
+# 🚰 Water Tanker App UI (React Native)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A modern and user-friendly mobile UI built with **React Native** for ordering water tankers. This app provides screens for login, registration, home, profile, orders, and settings — designed with a clean and intuitive interface.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+---
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+## 📱 Features
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+- 🔐 User Authentication (Login & Signup)
+- 🏠 Home Screen with available tanker services
+- 🚚 Tanker Order Management
+- ⚙️ Settings Screen (edit profile, dark mode, notifications)
+- 👤 User Profile View & Edit
+- 🗓️ Delivery Schedule View
+- 📍 Saved Addresses
+- ☁️ Designed for future API integration
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+---
+
+## 🛠️ Tech Stack
+
+| Tech            | Description                      |
+|-----------------|----------------------------------|
+| React Native    | Cross-platform mobile UI         |
+| Expo            | Simplifies development and testing |
+| React Navigation| Screen navigation                |
+| Vector Icons    | Icons and visual enhancements    |
+
+---
+
+:
+
